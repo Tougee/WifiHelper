@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SilenceHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_bind_tips">您还没有添加任何wifi\n点击添加</string>
+    <string name="empty_wifi_tips">没有检测到任何wifi\n点击重试</string>
+    <string name="opening_wifi">正在打开wifi。。。</string>
+    <string name="opening_wifi_error">打开wifi失败</string>
+    <string name="scanning_wifi">正在扫描wifi。。。</string>
+    <string name="connect_wifi">连接此wifi</string>
+    <string name="input_password">请输入wifi密码</string>
+    <string name="sure">确定</string>
+    <string name="forget_wifi">忘记该网络</string>
+    <string name="click_to_add">点击添加到列表</string>
+    <string name="add_success">添加成功</string>
+    <string name="add_failed">添加失败</string>
+    <string name="exits">该条目已存在</string>
+    <string name="delete_success">删除成功</string>
+    <string name="delete_failed">删除失败</string>
+    <string name="curr_filter_list">当前的过滤列表</string>
+</resources>
